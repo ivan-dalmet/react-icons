@@ -262,7 +262,7 @@ module.exports = {
     },
     {
       id: "hi",
-      name: "Heroicons",
+      name: "Heroicons ",
       contents: [
         {
           files: path.resolve(__dirname, "heroicons/solid/*.svg"),
